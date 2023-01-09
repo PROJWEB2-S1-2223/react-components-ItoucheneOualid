@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-  const MaListeDeCourse  =[
+  const MaListDeCourse  =[
     {
 
       title:"commande1",
@@ -25,7 +25,7 @@ import React, { useState } from 'react';
 
   return (
   <UL>{
-      MaListeDeCourse.map(function affiche MaListeDeCourse(course);
+      MaLiseDeCourse.map(function affiche MaLiseDeCourse(course);
       return (
 
         <li key=

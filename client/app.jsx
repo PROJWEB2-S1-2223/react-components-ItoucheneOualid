@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import reactLogo from './assets/react.svg';
-import MalisDeCourse from '.MaliseCurse/;
+import MalisDeCourse from '.MaLiseDeCurse/;
 
 function App() {
   const [count, setCount] = useState(0);
