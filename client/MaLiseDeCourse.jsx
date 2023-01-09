@@ -4,18 +4,16 @@ import React, { useState } from 'react';
     {
 
       title:"commande1",
-      course="course1",
+      article="MonPrAartile",
     }
 {
-  title:"commande2",
-  course="course2",
+      title:"commande2",
+      article="MonDeAartile",
 }
 
 {
-
-
-    title:"commande3",
-    course="course3",
+  title:"commande2",
+  article="MonTrAartile",
 
 }
 
